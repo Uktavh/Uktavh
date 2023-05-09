@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Octavio Isaac Gomez</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
+<h2>What am I currently doing?</h2>
+<p>As a programmer, I am committed to continuously developing my skills and expanding my knowledge of new technologies. To achieve this, I am always working on projects that challenge me and push me to learn more.
+
+My focus is on building a strong foundation for my career, which means I am constantly refining my existing knowledge and seeking out new opportunities to grow. I am passionate about exploring the latest trends and developments in the field, and I take pride in being up-to-date with the latest tools and techniques.
+
+Overall, my goal is to become a highly skilled and sought-after programmer who can tackle any challenge with confidence and ease <p>
+
 - 🔭 I’m currently working on [Xendra Rol Game](https://github.com/Uktavh/Xendra-Backend.git)  a project that I have always wanted to undertake. The goal is to transform a role-playing game that my friends and I created into an online platform for player-vs-player gaming.
 
 - 📫 How to reach me **uktavh@outlook.com**
