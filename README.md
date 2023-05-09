@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Octavio Isaac Gomez</h1>
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
+<h2>Who am I?</h2>
+<p>I am a passionate Full Stack Developer with a deep love for technology. My journey in programming began with C++ and Python in secondary school, and since then I have dedicated myself to expanding my knowledge and mastering new languages.<p>
+
+Today, my strongest language is JavaScript, which I use to build cutting-edge web applications and user interfaces. However, my thirst for knowledge and my commitment to continuous learning means that I am always exploring new technologies and techniques, and I am excited to continue growing and expanding my skills as a programmer.
+
+Above all, I am dedicated to achieving my dream of becoming a highly skilled and successful programmer who can make a real difference in the world of technology. With hard work, perseverance, and a deep passion for programming, I believe that anything is possible.
+
 <h2>What am I currently doing?</h2>
 <p>As a programmer, I am committed to continuously developing my skills and expanding my knowledge of new technologies. To achieve this, I am always working on projects that challenge me and push me to learn more.
 
