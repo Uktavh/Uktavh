@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Octavio Isaac Gomez</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 - 🔭 I’m currently working on [Xendra Rol Game](https://github.com/Uktavh/Xendra-Backend.git)  a project that I have always wanted to undertake. The goal is to transform a role-playing game that my friends and I created into an online platform for player-vs-player gaming.
 
