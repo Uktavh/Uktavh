@@ -14,6 +14,15 @@ Above all, I am dedicated to achieving my dream of becoming a highly skilled and
 My focus is on building a strong foundation for my career, which means I am constantly refining my existing knowledge and seeking out new opportunities to grow. I am passionate about exploring the latest trends and developments in the field, and I take pride in being up-to-date with the latest tools and techniques.
 
 Overall, my goal is to become a highly skilled and sought-after programmer who can tackle any challenge with confidence and ease <p>
+  
+<h2>Where am I headed?</h2>
+<p>My goal is to play a part in shaping the future of programming. We are at a pivotal point in the evolution of the field, and I am excited to be a part of what's next.
+
+As a developer, I am committed to not only keeping up with the latest trends and advancements but also pushing the boundaries of what is possible. I believe that the key to success in this field is a combination of technical expertise and strong interpersonal skills.
+
+In my search for a workplace where I can grow and thrive, I am looking for a company that values innovation and encourages employees to think outside the box. I want to work with a team that is passionate about making a difference and that believes in using technology to solve real-world problems.
+
+Ultimately, my goal is to continue developing my skills and knowledge as a programmer while also contributing to the growth and success of the company that I work for. With a focus on teamwork, creativity, and a commitment to excellence, I believe that the possibilities for my future in programming are limitless.<p>
 
 - 🔭 I’m currently working on [Xendra Rol Game](https://github.com/Uktavh/Xendra-Backend.git)  a project that I have always wanted to undertake. The goal is to transform a role-playing game that my friends and I created into an online platform for player-vs-player gaming.
 
