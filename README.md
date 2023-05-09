@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Octavio</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Octavio Isaac Gomez</h1>
+<h3 align="center">A passionate frontend developer from Argentina</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uktavh" alt="uktavh" /></a> </p>
 
-- 🔭 I’m currently working on [Xendra Rol Game](https://github.com/Uktavh/Xendra-Backend.git)
-
-- 🌱 I’m currently learning **TypeScript**
+- 🔭 I’m currently working on [Xendra Rol Game](https://github.com/Uktavh/Xendra-Backend.git)  a project that I have always wanted to undertake. The goal is to transform a role-playing game that my friends and I created into an online platform for player-vs-player gaming.
 
 - 📫 How to reach me **uktavh@outlook.com**
 
