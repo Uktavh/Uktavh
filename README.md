@@ -8,7 +8,7 @@ Today, my strongest language is JavaScript, which I use to build cutting-edge we
 
 Above all, I am dedicated to achieving my dream of becoming a highly skilled and successful programmer who can make a real difference in the world of technology. With hard work, perseverance, and a deep passion for programming, I believe that anything is possible.
 
-<h2>What am I currently doing?</h2>[www.xendra.club](http://www.xendra.club)
+<h2>What am I currently doing?</h2> www.xendra.club
 <p>As a programmer, I am committed to continuously developing my skills and expanding my knowledge of new technologies. To achieve this, I am always working on projects that challenge me and push me to learn more.
 
 My focus is on building a strong foundation for my career, which means I am constantly refining my existing knowledge and seeking out new opportunities to grow. I am passionate about exploring the latest trends and developments in the field, and I take pride in being up-to-date with the latest tools and techniques.
