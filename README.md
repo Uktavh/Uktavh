@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Octavio Isaac Gomez</h1>
+<h1 align="center">Hi 👋, I'm Octavio Isaac Gomez</h1> 
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 <h2>Who am I?</h2>
