@@ -13,7 +13,7 @@ Above all, I am dedicated to achieving my dream of becoming a highly skilled and
 
 My focus is on building a strong foundation for my career, which means I am constantly refining my existing knowledge and seeking out new opportunities to grow. I am passionate about exploring the latest trends and developments in the field, and I take pride in being up-to-date with the latest tools and techniques.
 
-Overall, my goal is to become a highly skilled and sought-after programmer who can tackle any challenge with confidence and ease <p>
+Overall, my main goal is to become a highly skilled and sought-after programmer who can tackle any challenge with confidence and ease <p>
   
 <h2>Where am I headed?</h2>
 <p>My goal is to play a part in shaping the future of programming. We are at a pivotal point in the evolution of the field, and I am excited to be a part of what's next.
