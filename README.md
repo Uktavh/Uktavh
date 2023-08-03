@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Argentina</h3>
 
 <h2>Who am I?</h2>
-<p>I am a passionate Full Stack Developer with a deep love for technology. My journey in programming began with C++ and Python in secondary school, and since then I have dedicated myself to expanding my knowledge and mastering new languages.<p>
+<p>I am a Full Stack Developer with a deep love for technology. My journey in programming began with C++ and Python in secondary school, and since then I have dedicated myself to expanding my knowledge and mastering new languages.<p>
 
 Today, my strongest language is JavaScript, which I use to build cutting-edge web applications and user interfaces. However, my thirst for knowledge and my commitment to continuous learning means that I am always exploring new technologies and techniques, and I am excited to continue growing and expanding my skills as a programmer.
 
