@@ -26,7 +26,7 @@ Ultimately, my goal is to continue developing my skills and knowledge as a progr
 
 - 🔭 I’m currently working on [Xendra Rol Game](https://github.com/Uktavh/Xendra-Backend.git)  a project that I have always wanted to undertake. The goal is to transform a role-playing game that my friends and I created into an online platform for player-vs-player gaming.
 
-- 📫 How to reach me **uktavh@outlook.com**
+- 📫 How to reach me: **uktavh@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
