@@ -41,4 +41,4 @@ Ultimately, my goal is to continue developing my skills and knowledge as a progr
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=uktavh&show_icons=true&locale=en" alt="uktavh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uktavh&" alt="uktavh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=uktavh&" alt="uktavh" /> </p>
