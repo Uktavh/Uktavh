@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Octavio Isaac Gomez</h1> 
-<h3 align="center">A passionate fullstack developer from Argentina</h3>
+<h3 align="center">A passionate fullstack developer from Argentina </h3>
 
 <h2>Who am I?</h2>
 <p>I am a Full Stack Developer with a deep love for technology. My journey in programming began with C++ and Python in secondary school, and since then I have dedicated myself to expanding my knowledge and mastering new languages.<p>
